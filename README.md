@@ -1,5 +1,5 @@
 # QueryGallery
-EECS 4443 - Final Project
+EECS 4443 Final Project -
 In modern society people take and store the majority of their photos with their smartphones and with increased usage comes a 
 market demand for innovation; this innovation can be observed as photo apps have transformed from simple camera rolls to full 
 scale apps with many features (editing tools and filters, facial recognition, location tagging, autonomous tagging, etc.). 
